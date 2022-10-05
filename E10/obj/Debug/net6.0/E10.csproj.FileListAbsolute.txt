@@ -1,0 +1,15 @@
+M:\1\C#\Seminar_1\Ex_01\E10\bin\Debug\net6.0\E10.exe
+M:\1\C#\Seminar_1\Ex_01\E10\bin\Debug\net6.0\E10.deps.json
+M:\1\C#\Seminar_1\Ex_01\E10\bin\Debug\net6.0\E10.runtimeconfig.json
+M:\1\C#\Seminar_1\Ex_01\E10\bin\Debug\net6.0\E10.dll
+M:\1\C#\Seminar_1\Ex_01\E10\bin\Debug\net6.0\E10.pdb
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.csproj.AssemblyReference.cache
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.GeneratedMSBuildEditorConfig.editorconfig
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.AssemblyInfoInputs.cache
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.AssemblyInfo.cs
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.csproj.CoreCompileInputs.cache
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.dll
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\refint\E10.dll
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.pdb
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\E10.genruntimeconfig.cache
+M:\1\C#\Seminar_1\Ex_01\E10\obj\Debug\net6.0\ref\E10.dll
